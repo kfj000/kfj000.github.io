@@ -4,63 +4,18 @@
   
     
     <entry>
-      <title>小小小</title>
-      <link href="/2021/08/27/%E5%B0%8F%E5%B0%8F%E5%B0%8F/"/>
-      <url>/2021/08/27/%E5%B0%8F%E5%B0%8F%E5%B0%8F/</url>
+      <title>小宇第二次出院</title>
+      <link href="/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/"/>
+      <url>/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/</url>
       
-        <content type="html"><![CDATA[<p>图片测试<br><img src="/.io//QQ%E6%88%AA%E5%9B%BE20210827161324.png" alt="第一张"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>my first post</title>
-      <link href="/2021/08/26/my-first-post/"/>
-      <url>/2021/08/26/my-first-post/</url>
-      
-        <content type="html"><![CDATA[<p>你好！世界！</p>]]></content>
+        <content type="html"><![CDATA[<p>小宇经过十三天的治疗，终于出院啦，期间她妈、他舅买了很多小汽车，他姥姥也买了桃子、羊肉等补给小宇（不过羊肉都让我们吃啦），虽然他奶奶啥也没买，但依然是最出力的那个，哈哈，在这替小宇一并感谢各位大佬！！！<br><img src="/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/1.jpg"><br><img src="/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/2.jpg"><br><img src="/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/3.jpg"><br><img src="/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/4.jpg"><br><img src="/2021/08/27/%E5%B0%8F%E5%AE%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%87%BA%E9%99%A2/5.jpg"></p>]]></content>
       
       
       <categories>
           
-          <category> 测试 </category>
+          <category> 生活 </category>
           
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>世界我来了</title>
-      <link href="/2021/08/26/%E4%B8%96%E7%95%8C%E6%88%91%E6%9D%A5%E4%BA%86/"/>
-      <url>/2021/08/26/%E4%B8%96%E7%95%8C%E6%88%91%E6%9D%A5%E4%BA%86/</url>
-      
-        <content type="html"><![CDATA[<p>世界，我来了！</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 随便 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/08/25/hello-world/"/>
-      <url>/2021/08/25/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
       
       
     </entry>
