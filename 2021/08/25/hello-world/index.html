@@ -6,17 +6,19 @@
   <meta name="keywords" content="">
   <meta name="description" content="Hello World | 空的博客">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="你好！世界！">
+<meta name="description" content="图片测试">
 <meta property="og:type" content="article">
-<meta property="og:title" content="my first post">
-<meta property="og:url" content="https://kfj000.github.io/2021/08/26/my-first-post/index.html">
+<meta property="og:title" content="小小小">
+<meta property="og:url" content="https://kfj000.github.io/2021/08/27/%E5%B0%8F%E5%B0%8F%E5%B0%8F/index.html">
 <meta property="og:site_name" content="空的博客">
-<meta property="og:description" content="你好！世界！">
+<meta property="og:description" content="图片测试">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2021-08-25T16:23:15.000Z">
-<meta property="article:modified_time" content="2021-08-27T04:47:56.847Z">
+<meta property="og:image" content="https://kfj000.github.io/.io//QQ%E6%88%AA%E5%9B%BE20210827161324.png">
+<meta property="article:published_time" content="2021-08-27T08:11:59.000Z">
+<meta property="article:modified_time" content="2021-08-27T08:14:50.805Z">
 <meta property="article:author" content="空">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://kfj000.github.io/.io//QQ%E6%88%AA%E5%9B%BE20210827161324.png">
 
 
 <link rel="icon" href="/img/avatar.jpg">
@@ -78,7 +80,7 @@
     <li>
         <div class="all active" data-rel="全部文章">全部文章
             
-                <small>(3)</small>
+                <small>(4)</small>
             
         </div>
     </li>
@@ -126,7 +128,7 @@
         
     </div>
 </div>
-<input type="hidden" id="yelog_site_posts_number" value="3">
+<input type="hidden" id="yelog_site_posts_number" value="4">
 
 <div style="display: none">
     <span id="busuanzi_value_site_uv"></span>
@@ -184,6 +186,14 @@
     </div>
     
     <nav id="title-list-nav">
+        
+        <a  class="全部文章 "
+           href="/2021/08/27/%E5%B0%8F%E5%B0%8F%E5%B0%8F/"
+           data-tag=""
+           data-author="" >
+            <span class="post-title" title="小小小">小小小</span>
+            <span class="post-date" title="2021-08-27 16:11:59">2021/08/27</span>
+        </a>
         
         <a  class="全部文章 测试 "
            href="/2021/08/26/my-first-post/"
@@ -257,6 +267,17 @@
         </span>
         
         
+        <span class="top-comment" title="跳转至评论区">
+            <a href="#comments">
+                评论:<span class="count-comment">
+                    <span class="spinner">
+                      <div class="cube1"></div>
+                      <div class="cube2"></div>
+                    </span>
+                </span>
+            </a>
+        </span>
+        
     </div>
     
     <div class="toc-ref">
@@ -298,6 +319,27 @@
 
 
 
+
+
+    <div id="comments"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
+<script type="text/javascript">
+    $.getScript('/js/gitalk.js', function () {
+        var gitalk = new Gitalk({
+            clientID: '',
+            clientSecret: '',
+            repo: 'yelog.github.io',
+            owner: 'yelog',
+            admin: ['yelog'],
+            id: decodeURI(location.pathname),
+            distractionFreeMode: 'true',
+            language: 'zh-CN',
+            perPage: parseInt('10',10)
+        })
+        gitalk.render('comments')
+    })
+</script>
 
 
 
